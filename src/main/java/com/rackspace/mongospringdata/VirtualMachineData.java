@@ -20,7 +20,7 @@ public class VirtualMachineData {
     @Id
     private String id;  //From documentation "Currently we supportString, ObjectId and BigInteger as id-types."
 
-    @Indexed
+    @Indexed(unique = true)
     private String name;
 
     private String VirtualDataCenter;
