@@ -4,7 +4,7 @@ Enjoy.
 -------------------------------------------------------------------------
 INSTALLING MONGODB ON UBUNTU
 -------------------------------------------------------------------------
---do the following to get teh gpg key that authenticates the debian package
+--do the following to get the gpg key that authenticates the debian package
 
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 9ECBEC467F0CEB10
 
